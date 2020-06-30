@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* font-family: sans-serif; */
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+    max-width: 100% !important;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
